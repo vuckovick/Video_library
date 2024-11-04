@@ -1,0 +1,6 @@
+com\mycompany\centralniserver\JAXRSConfiguration.class
+jms\Connection.class
+jms\Param.class
+jms\Request.class
+com\mycompany\centralniserver\resources\CentralniServerResource.class
+com\mycompany\centralniserver\resources\JavaEE8Resource.class
